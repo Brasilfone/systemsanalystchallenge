@@ -7,7 +7,7 @@ senha de acesso, este aplicativo deve permitir depois de realizado o cadastro, o
 precisa selecionar um dos produtos disponíveis no aplicativo pelo menos, os produtos serão cadastrados pela própria Joana em uma aba específica para os administradores, onde permite
 cadastrar os produtos, excluir e editar, o aplicativo mostra o nome do produto, uma imagem, o peso do produto e o preço, ao selecionar o produto o cliente precisa informar a 
 quantidade deste produto que ele deseja então este produto é adicionado ao carinho, no carinho o cliente pode clicar para adicionar mais produtos, podendo então encomendar
-diversos produtos de uma unica vez, ao finalizar a encomenda, o aplicativo mostra a agenda para o cliente selecionar o prazo para entrega, ou seja, a data que ele precisa receber
+diversos produtos de uma unica vez, o aplicativo não permite pagamentos, apenas serve para controlar pedidos, o pagamento é feito no ato da entrega, ao finalizar a encomenda o aplicativo mostra a agenda para o cliente selecionar o prazo para entrega, ou seja, a data que ele precisa receber
 os produtos em seu endereço, o aplicativo sempre obriga lançamentos para pelo menos dois dias depois da data atual, para que haja tempo de produzir a encomenda, o aplicativo tem
 também, uma aba gerencial onde Joana acompanha as encomendas realizadas no aplicativo, e pode dar baixa nelas e excluir se necessário. 
 
