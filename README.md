@@ -17,6 +17,8 @@ O que nós esperamos que você aprenda de nós:
 ## Primeiros passos: 
 
 1 - Analise os requisitos do caso descrito no documento: [`description`](/description.md)
+
 2 - Faça um diagrama de Entidade Relacionamento que atenda aos requisitos descritos no caso, documente este diagrama para que possamos entender a lógica empregada ao desenvolver o diagrama. 
+
 3 - Envie o diagrama e a documentação em conjunto para o e-mail: edian@brasilfone.com.br
 
