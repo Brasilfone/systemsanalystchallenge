@@ -1,6 +1,6 @@
 Caso de uso Padaria Felicidade. 
 
-A Padaria Felicidade é uma padria que está localizada no centro de sua cidade, sua proprietária Joana vem observando crescimento em seu fluxo de caixa e por isso vem pensando
+A Padaria Felicidade é uma padaria que está localizada no centro de sua cidade, sua proprietária Joana vem observando crescimento em seu fluxo de caixa e por isso vem pensando
 em investir em um aplicativo que receba pedidos e encomendas de doces e salgados, para que ela consiga organizar melhor suas demandas, sem precisar atender telefonemas ou atender
 mensagens por aplicativos de terceiros, Joana quer um aplicativo onde todos os seus clientes possam se cadastrar, com dados básicos como nome, endereço, idade, usuário e 
 senha de acesso, este aplicativo deve permitir depois de realizado o cadastro, o agendamento de pedidos de salgados e doces, através de uma aba pedidos, ao fazer o pedido o cliente
